@@ -1,4 +1,4 @@
-public class kieudulieutrongjava {
+public class kieudulieu {
     public static void main(String[] args) {
         // Kiểm tra kiểu số nguyên
         System.out.println("min của kiểu int: " + Integer.MAX_VALUE);

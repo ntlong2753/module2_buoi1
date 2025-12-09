@@ -1,5 +1,6 @@
 public class khaibaobien {
     public static void main(String[] args) {
+
         // Khai báo biến
         int a;
         byte tuoi;
@@ -19,10 +20,8 @@ public class khaibaobien {
         final int DOSOI = 100; // hằng số là cố định trong suốt chương trình, không thể thay đổi
 
         // Đặt tên biến
-        /*
-            Tên biến trong java có phân biệt viết hoa và viết thường
-            Đặt tên theo quy tắc chữ cái đầu từ thứ 2 trở đi viết Hoa, còn lại viết thường
-        */
+            //Tên biến trong java có phân biệt viết hoa và viết thường
+            //Đặt tên theo quy tắc chữ cái đầu từ thứ 2 trở đi viết Hoa, còn lại viết thường
 
     }
 }
